@@ -6,8 +6,8 @@ git init : Ele inicia o arquivo ".git/" para controlar a pasta.
 
 git status :
 É responsável por validar os arquivos modificados dentro do projeto.
-Em vermelho ele mostra os arquivos modificados.
-Em verde mostra os arquivos que foram modificados.
+Em vermelho, ele mostra os arquivos modificados.
+Em verde, mostra os arquivos que foram adicionados pelo "git add".
 
 git add : É responsável por colocar o arquivo modificado em uma área segura.
 
