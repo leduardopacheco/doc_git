@@ -20,3 +20,12 @@ git checkout -b <nome_da_branch> : Cria uma nova branch ou ramo
 git checkout <nome_da_branch> : Muda de branch/ramo
 
 git merge <nome_da_branch> : Ele adiciona a branch atual o conteúdo de outra branch.
+
+git clone <url>: Baixa o projeto do repositório.
+
+git push : Envia alteração para o repositório.
+
+git pull : Puxa as alterações do repositório.
+
+Possíveis Erros:
+403: Apagando as credenciais, gerenciamento de credenciais.
