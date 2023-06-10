@@ -1,4 +1,4 @@
-# Documentação git
+# Documentação Git
 
 Documentação de git para ajudar nos comandos.
 
